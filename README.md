@@ -2,6 +2,8 @@
 
 this is my super change
 
+this are other changes
+yahoo
 
 # Pro Git Book Contents
 
